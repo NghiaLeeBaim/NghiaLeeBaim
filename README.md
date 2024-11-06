@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nghia08433n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nghia08433n" /></a></p><br><br>
 
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3229929" style='border:none;'></iframe></p><br>
+<p><a href="https://tryhackme.com/r/p/freden"><img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nghialeebaim&show_icons=true&locale=en&layout=compact" alt="nghialeebaim" /></p><br>
 
