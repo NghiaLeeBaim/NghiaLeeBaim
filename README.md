@@ -20,6 +20,6 @@ I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [f
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I416ASDK)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/freden.png?update=2")" alt="Your Image Badge" />
 
 
