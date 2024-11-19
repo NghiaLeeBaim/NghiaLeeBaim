@@ -5,10 +5,10 @@ I currently work as the System Administrator at [Long Van System Solution](https
 
 <h3 align="center">A System Administrator - Network Engineer - Ethical hacker from VietNam</h3>
 I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [freden](https://tryhackme.com/p/freden).
-<p>- 🌱 I’m currently learning **LPI-1, LPI-2, LPI-3</p>
-<p>- 💬 Ask me about **Hacking,Linux,System,Networking**</p>
-<p>- 📫 How to reach me **nghia0843309947@gmail.com - marvinlee1207@proton.me</p>
-<p>- ⚡ Fun fact **I think i funny</p>
+<p>- 🌱 I’m currently learning LPI-1, LPI-2, LPI-3</p>
+<p>- 💬 Ask me about Hacking,Linux,System,Networking</p>
+<p>- 📫 How to reach me nghia0843309947@gmail.com - marvinlee1207@proton.me</p>
+<p>- ⚡ Fun fact I think i funny</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
