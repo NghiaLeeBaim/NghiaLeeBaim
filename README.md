@@ -25,3 +25,16 @@
 
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" /></p>
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+Marvin+or+Freden_nz)](https://git.io/typing-svg)
+
+I currently work as the System Administrator at [Long Van System Solution](https://www.nghiale.pro/) in Ho Chi Minh, Viet Nam. My pronouns are He/Him.
+
+Most of my projects are System Linux, Cybersecurity, Devops, Pentest.
+
+I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [Aquinas](https://tryhackme.com/p/freden).
+
+Like my stuff and want to encourage me to do more of it? Buy me a coffee! 
+
