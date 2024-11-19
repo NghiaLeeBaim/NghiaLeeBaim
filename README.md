@@ -12,7 +12,7 @@ I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [f
 <p><a href="https://linkedin.com/in/nghiale1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nghiale1207" height="30" width="40" /></a></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" />
 <p>Like my stuff and want to encourage me to do more of it? Buy me a coffee!</p> 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3AKZ3H)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I416ASDK)
 
 
 
