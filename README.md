@@ -23,5 +23,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nghia08433n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="nghia08433n" /></a></p>
 
-<p><a href="https://tryhackme.com/r/p/freden"><img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" /></a></p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/freden.png" alt="Your Image Badge" />
 
