@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+ZeroX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+ZeroXzero)](https://git.io/typing-svg)
 
 
 I currently work as the System Administrator at [Long Van System Solution](https://longvan.net/) in Ho Chi Minh, Viet Nam. My pronouns are He/Him.
@@ -20,6 +20,6 @@ I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [f
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I416ASDK)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/freden.png?update=2" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ZeroXzero.png" alt="Your Image Badge" />
 
 
