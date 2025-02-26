@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+ZeroXZeroX_nz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+ZeroX_nz)](https://git.io/typing-svg)
 
 
 I currently work as the System Administrator at [Long Van System Solution](https://longvan.net/) in Ho Chi Minh, Viet Nam. My pronouns are He/Him.
