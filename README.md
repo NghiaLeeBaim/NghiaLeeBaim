@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Nghia!;A.K.A+ZeroXzero)](https://git.io/typing-svg)
 
 
-I currently work as the System Administrator at [Long Van System Solution](https://longvan.net/) in Ho Chi Minh, Viet Nam. My pronouns are He/Him.
+I currently work as the System Administrator at in Ho Chi Minh, Viet Nam. My pronouns are He/Him.
 
 <h3 align="center">A System Administrator - Ethical hacker from VietNam</h3>
 I'm a big fan of the TryHackMe infosec learning platform. Find me on there as [ZeroXzero]((https://tryhackme.com/p/ZeroXzero)).
